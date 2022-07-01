@@ -5,6 +5,8 @@ import { Card } from "./components/Card";
 import { ThemeProvider } from "styled-components";
 import GlobalStyle from "./components/styles/Global";
 import Content from "./content";
+// import BurgerMenu from "../components/Animations/Burger/Burger";
+import BurgerMenu from "./components/Animations/Burger/Burger";
 
 const theme = {
   colors: {
@@ -20,6 +22,7 @@ function App() {
     <ThemeProvider theme={theme}>
       <>
         <GlobalStyle />
+        <BurgerMenu />
         <Header />
         <Container>
           {Content.map((item, index) => {
