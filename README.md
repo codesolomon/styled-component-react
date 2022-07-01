@@ -68,4 +68,109 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # styles
+
+<!-- Headings -->
+
+# Headings
+
+## Heading 2
+
+### heading 3
+
+#### Heading 4
+
+##### Heading 5
+
+###### Heading 6
+
+<!-- Italics -->
+
+_This text_ is italic
+
+_This text_ is italic
+
+<!-- Strong -->
+
+**This text** is italic
+
+**This text** is italic
+
+<!-- Strikethrough -->
+
+~~This text~~ is italic
+
+## <!-- Horizontal Rule -->
+
+---
+
+<!-- Blockquote -->
+
+> This is a quote
+
+<!-- Links -->
+
+[Mekes Vibes](http://www.mekesvibes.com)
+
+<!-- Link title:hover -->
+
+[Mekes Vibes](http://www.mekesvibes.com "Mekes Vibes")
+
+<!-- UL -->
+
+- Item 1
+
+- Item 2
+
+- Item 3
+  - Nested Item 1
+  - Nested Item 2
+
+<!-- OL -->
+
+1. Item 1
+1. Item 2
+1. Item 3
+
+<!-- Inline Code Block -->
+
+`<p>This is paragraph</p>`
+
+<!-- Images -->
+
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
+
+<!-- GitHub Markdown -->
+
+<!-- Code blocks -->
+
+```bash
+   npm install
+
+   npm start
+```
+
+```javascript
+function add(num, num2) {
+  return num1 + num2;
+}
+```
+
+```python
+   def add(num, num2)
+    return num1 + num2;
+```
+
+<!-- tables -->
+
+| Name     | Email             |
+| -------- | ----------------- |
+| John Doe | johndoe@gmail.com |
+| Jane Doe | janedoe@gmail.com |
+
+<!-- Task Lists -->
+
+- [x] Task 1
+- [x] Task 2
+- [] Task 3
